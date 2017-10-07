@@ -1,0 +1,13 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Lin Mu <328232234@qq.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
